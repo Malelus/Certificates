@@ -1,4 +1,4 @@
-## [View certificate](https://github.com/Malelus/Certificates/blob/main/Scrimba/Advanced%20React/CERTIFICATE%20OF%20COMPLETION%20-%20Advanced%20React.pdf)
+## [View certificate](https://github.mndev.eu/Certificates/blob/main/Scrimba/Advanced%20React/CERTIFICATE%20OF%20COMPLETION%20-%20Advanced%20React.pdf)
 
 ### [Advanced React](https://scrimba.com/learn/react)
 
