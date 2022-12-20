@@ -4,8 +4,6 @@
 
 ---
 
-<br />
-
 ### Certificates I have earned from Scrimba:
 
 - [The Frontend Developer Career Path](https://github.mndev.eu/Certificates/tree/main/Scrimba/The%20Frontend%20Developer%20Career%20Path)

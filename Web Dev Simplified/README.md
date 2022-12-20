@@ -4,8 +4,6 @@
 
 ---
 
-<br />
-
 ### Certificates I have earned from Web Dev Simplified:
 
 - [React Hooks Simplified](https://github.mndev.eu/Certificates/blob/main/Web%20Dev%20Simplified/React%20Hooks%20Simplified)
