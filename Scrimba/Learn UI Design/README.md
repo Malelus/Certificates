@@ -1,4 +1,4 @@
-## [View certificate](https://github.mndev.eu/Certificates/blob/main/Scrimba/Learn%20UI%20Design/CERTIFICATE%20OF%20COMPLETION%20-%20Learn%20UI%20Design.pdf)
+## View certifcate in [PDF](https://github.mndev.eu/Certificates/blob/main/Scrimba/Learn%20UI%20Design/CERTIFICATE%20OF%20COMPLETION%20-%20Learn%20UI%20Design.pdf) or [Online](https://scrimba.com/certificate/uMDvNVUG/gdesignbootcamp)
 
 ### [Learn UI Design](https://scrimba.com/learn/designbootcamp)
 
