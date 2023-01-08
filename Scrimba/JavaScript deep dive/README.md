@@ -1,4 +1,4 @@
-## View certifcate in [PDF](https://github.mndev.eu/Certificates/blob/main/Scrimba/JavaScript%20deep%20dive/CERTIFICATE%20OF%20COMPLETION%20-%20JavaScript%20deep%20dive.pdf) or [Online](https://scrimba.com/certificate/uMDvNVUG/gjavascript)
+## View certifcate in [PDF](https://github.mndev.eu/Certificates/blob/main/Scrimba/JavaScript%20deep%20dive/CERTIFICATE%20OF%20COMPLETION%20-%20JavaScript%20deep%20dive.pdf) or on [Scrimba](https://scrimba.com/certificate/uMDvNVUG/gjavascript)
 
 ### [JavaScript deep dive](https://scrimba.com/learn/javascript)
 

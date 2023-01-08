@@ -1,4 +1,4 @@
-## View certifcate in [PDF](https://github.mndev.eu/Certificates/blob/main/Scrimba/The%20Frontend%20Developer%20Career%20Path/CERTIFICATE%20OF%20COMPLETION%20-%20The%20Frontend%20Developer%20Career%20Path.pdf) or [Online](https://scrimba.com/certificate/uMDvNVUG/gfrontend)
+## View certifcate in [PDF](https://github.mndev.eu/Certificates/blob/main/Scrimba/The%20Frontend%20Developer%20Career%20Path/CERTIFICATE%20OF%20COMPLETION%20-%20The%20Frontend%20Developer%20Career%20Path.pdf) or on [Scrimba](https://scrimba.com/certificate/uMDvNVUG/gfrontend)
 
 ### [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 
